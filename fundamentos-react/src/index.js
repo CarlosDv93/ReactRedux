@@ -6,7 +6,6 @@ import "./index.css";
 ReactDOM.render(
     <div>
         <Primeiro></Primeiro>
-        <Primeiro></Primeiro>
     </div>,
     document.getElementById('root')
 )
